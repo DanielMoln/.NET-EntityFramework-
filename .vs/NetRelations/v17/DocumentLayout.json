@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Projects\\net-ef-relations\\NetRelations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\models\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:models\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\models\\faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:models\\faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\controllers\\tlucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:controllers\\tlucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\dtos\\charactercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:dtos\\charactercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\dtos\\weaponcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:dtos\\weaponcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\dtos\\backpackcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:dtos\\backpackcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|d:\\web projects\\net-ef-relations\\netrelations\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EE77C5-09F8-477D-BC3A-32C521B3C2C7}|NetRelations.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\DTOs\\WeaponCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\WeaponCreateDto.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\DTOs\\WeaponCreateDto.cs",
+              "RelativeToolTip": "DTOs\\WeaponCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackpackCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\DTOs\\BackpackCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BackpackCreateDto.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\DTOs\\BackpackCreateDto.cs",
+              "RelativeToolTip": "DTOs\\BackpackCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:10:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\DTOs\\CharacterCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CharacterCreateDto.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\DTOs\\CharacterCreateDto.cs",
+              "RelativeToolTip": "DTOs\\CharacterCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:09:16.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TluController.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Controllers\\TluController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TluController.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Controllers\\TluController.cs",
+              "RelativeToolTip": "Controllers\\TluController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:07:35.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faction.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Faction.cs",
+              "RelativeDocumentMoniker": "Models\\Faction.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Faction.cs",
+              "RelativeToolTip": "Models\\Faction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:59:06.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backpack.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Backpack.cs",
+              "RelativeDocumentMoniker": "Models\\Backpack.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Backpack.cs",
+              "RelativeToolTip": "Models\\Backpack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:33:56.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Models\\Character.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Character.cs",
+              "RelativeToolTip": "Models\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:33:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:31:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:28:52.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "Models\\Weapon.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\Models\\Weapon.cs",
+              "RelativeToolTip": "Models\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:44:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T12:29:52.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Web Projects\\net-ef-relations\\NetRelations\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Web Projects\\net-ef-relations\\NetRelations\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:23:09.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
